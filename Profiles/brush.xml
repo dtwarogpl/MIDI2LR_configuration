@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings>
+  <setting channel="11" controller="1" command_string="local_Exposure"/>
+  <setting channel="11" note="9" command_string="profile1"/>
+  <setting channel="11" note="10" command_string="RemoveFlag"/>
+  <setting channel="11" controller="7" command_string="local_Clarity"/>
+  <setting channel="11" note="8" command_string="Key2"/>
+  <setting channel="11" note="11" command_string="RemoveFlag"/>
+  <setting channel="11" controller="3" command_string="profile1"/>
+  <setting channel="11" controller="2" command_string="local_Temperature"/>
+  <setting channel="11" note="1" command_string="Resetlocal_Temperature"/>
+  <setting channel="11" controller="4" command_string="local_Highlights"/>
+  <setting channel="11" note="3" command_string="Resetlocal_Highlights"/>
+  <setting channel="11" note="0" command_string="Resetlocal_Exposure"/>
+  <setting channel="11" note="17" command_string="profile1"/>
+  <setting channel="11" note="16" command_string="profile1"/>
+</settings>
