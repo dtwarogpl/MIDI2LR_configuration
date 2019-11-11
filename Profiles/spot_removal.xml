@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings>
+  <setting channel="11" note="18" command_string="profile1"/>
+  <setting channel="11" controller="1" command_string="PrevPro"/>
+  <setting channel="11" controller="2" command_string="PrevPro"/>
+  <setting channel="11" note="16" command_string="PrevPro"/>
+  <setting channel="11" note="17" command_string="PrevPro"/>
+</settings>
