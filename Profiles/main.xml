@@ -3,17 +3,18 @@
 <settings>
   <setting channel="11" controller="1" command_string="Exposure"/>
   <setting channel="11" note="16" command_string="Prev"/>
-  <setting channel="11" note="40" command_string="Prev"/>
   <setting channel="11" controller="2" command_string="Temperature"/>
+  <setting channel="11" note="40" command_string="Prev"/>
   <setting channel="11" note="0" command_string="ResetExposure"/>
   <setting channel="11" note="17" command_string="Next"/>
-  <setting channel="11" note="41" command_string="Next"/>
   <setting channel="11" controller="3" command_string="straightenAngle"/>
+  <setting channel="11" note="41" command_string="Next"/>
   <setting channel="11" note="1" command_string="Key1"/>
   <setting channel="11" note="2" command_string="ResetCrop"/>
   <setting channel="11" note="8" command_string="Key2"/>
   <setting channel="11" controller="4" command_string="Highlights"/>
   <setting channel="11" note="3" command_string="ResetHighlights"/>
+  <setting channel="11" note="47" command_string="Pick"/>
   <setting channel="11" controller="5" command_string="Shadows"/>
   <setting channel="11" note="4" command_string="ResetShadows"/>
   <setting channel="11" controller="6" command_string="Whites"/>
@@ -38,4 +39,6 @@
   <setting channel="11" note="19" command_string="ZoomInSmallStep"/>
   <setting channel="11" controller="8" command_string="Saturation"/>
   <setting channel="11" note="7" command_string="ResetSaturation"/>
+  <setting channel="11" controller="9" command_string="Unmapped"/>
+  <setting channel="11" note="14" command_string="Preset_5"/>
 </settings>
