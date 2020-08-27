@@ -16,11 +16,12 @@
   <setting channel="11" note="17" command_string="profile1"/>
   <setting channel="11" note="16" command_string="profile1"/>
   <setting channel="11" note="18" command_string="SpotRemoval"/>
-  <setting channel="11" note="33" command_string="profile1"/>
   <setting channel="11" controller="11" command_string="local_Contrast"/>
+  <setting channel="11" note="33" command_string="profile1"/>
   <setting channel="11" controller="6" command_string="Unmapped"/>
   <setting channel="11" controller="5" command_string="local_Shadows"/>
   <setting channel="11" note="4" command_string="Resetlocal_Shadows"/>
   <setting channel="11" controller="12" command_string="local_Tint"/>
   <setting channel="11" note="25" command_string="Resetlocal_Tint"/>
+  <setting channel="11" note="15" command_string="Preset_5"/>
 </settings>
